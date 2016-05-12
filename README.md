@@ -1,6 +1,6 @@
 # meteor-guide-starter-react
 
-A Meteor application starter based on the Meteor guide.
+A Meteor application starter based on the [Meteor guide](http://guide.meteor.com/).
 
 ## Why?
 
