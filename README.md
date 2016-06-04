@@ -8,9 +8,9 @@ This application contains the bare minimum configuration you would typically hav
 
 ## Installation
 
-1. `> git clone https://github.com/dburles/meteor-guide-starter-react.git`
-2. `> npm install`
-3. `> meteor`
+1. `$ git clone https://github.com/dburles/meteor-guide-starter-react.git`
+2. `$ npm install`
+3. `$ meteor`
 
 ## License
 
