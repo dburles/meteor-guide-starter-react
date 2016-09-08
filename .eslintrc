@@ -1,6 +1,11 @@
 {
   "env": {
-    "meteor": true
+    "meteor": true,
+    "browser": true
+  },
+  "parser": "babel-eslint",
+  "parserOptions": {
+    "allowImportExportEverywhere": true
   },
   "plugins": [
     "meteor"
@@ -9,8 +14,10 @@
     "airbnb",
     "plugin:meteor/recommended"
   ],
-  "rules": {},
   "settings": {
     "import/resolver": "meteor"
+  },
+  "rules": {
+    "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }]
   }
 }
