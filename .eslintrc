@@ -18,7 +18,17 @@
     "import/resolver": "meteor"
   },
   "rules": {
-    "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
-    "import/no-extraneous-dependencies": "off"
+    "react/jsx-filename-extension": [
+      1,
+      {
+        "extensions": [
+          ".js",
+          ".jsx"
+        ]
+      }
+    ],
+    "import/no-extraneous-dependencies": "off",
+    "import/no-absolute-path": "off",
+    "import/extensions": "off"
   }
 }
