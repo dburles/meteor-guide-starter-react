@@ -8,7 +8,7 @@ This application contains the bare minimum configuration you would typically hav
 
 ## Installation
 
-1. `$ git clone https://github.com/dburles/meteor-guide-starter-react.git`
+1. Download the latest release here https://github.com/dburles/meteor-guide-starter-react/releases
 2. `$ npm install`
 3. `$ meteor`
 
