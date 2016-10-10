@@ -19,7 +19,7 @@
     "eslint-plugin-import": "^2.0.0",
     "eslint-plugin-jsx-a11y": "^2.2.2",
     "eslint-plugin-meteor": "^4.0.0",
-    "eslint-plugin-react": "^6.3.0"
+    "eslint-plugin-react": "^6.4.1"
   },
   "eslintConfig": {
     "parser": "babel-eslint",
